@@ -153,3 +153,4 @@ C:\Users\Admin\Restore\API\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dl
 C:\Users\Admin\Restore\API\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Admin\Restore\API\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Admin\Restore\API\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Admin\Restore\API\obj\Debug\net9.0\API.sourcelink.json
